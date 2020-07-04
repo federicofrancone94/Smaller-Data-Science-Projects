@@ -1,4 +1,4 @@
-# Smaller-Projects (Work In Progress)
+# Smaller-Projects (Upload clean notebooks is Work In Progress)
 
 1. Supervised ML algorithms for Churn Prediction.
 2. Database Management:
