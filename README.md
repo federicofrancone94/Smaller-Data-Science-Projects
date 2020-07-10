@@ -10,3 +10,4 @@ Multivariate Time Series Prediction of Italian GDP from 1970 to 2016.
 Data taken from OECD. Models experimented: AR, MA, ARIMA, ARCH, GARCH.
 5. Custom Target Encoding Class
 Developing a custom Python Class to transform a categorical variable to a continuous, with several specific criteria to avoid overfitting.
+6. Experiment on a Custom Model Stacking: "Intelligen Voting"
